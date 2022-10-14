@@ -17,6 +17,11 @@ Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-t
 
 - Integrated into [Huggingface Spaces 🤗](https://huggingface.co/spaces/akhaliq/yolov7) using Gradio. Try out the Web Demo [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/akhaliq/yolov7)
 
+
+## 🚀Training Yolov7 on Kaggle on Custom Dataset
+
+<a target="_blank" href="https://www.kaggle.com/code/owaiskhan9654/training-yolov7-on-kaggle-on-custom-dataset"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a> by [@owaiskhan9654](https://github.com/Owaiskhan9654)
+
 ## Performance 
 
 MS COCO
